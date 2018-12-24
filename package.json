@@ -1,0 +1,30 @@
+{
+  "name": "castle-deploy-master",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts",
+    "READMD.md",
+    "yarn.lock"
+  ],
+  "repository": "https://github.com/YanCastle/castle-deploy-master",
+  "author": "CastleMY <490523604@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "castle-config": "^1.0.8",
+    "castle-controller": "^1.0.7",
+    "castle-model": "^1.0.6",
+    "castle-relation": "^1.0.3",
+    "castle-router": "^1.0.4",
+    "castle-server": "^1.0.5",
+    "castle-ws-rpc-server": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/chokidar": "^1.7.5",
+    "@types/koa": "^2.0.47",
+    "@types/koa-bodyparser": "^4.2.1",
+    "@types/sequelize": "^4.27.33"
+  }
+}
