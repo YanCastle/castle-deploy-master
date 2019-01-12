@@ -1,0 +1,1 @@
+{"version":3,"file":"Gogs.js","sourceRoot":"","sources":["../../src/controller/Gogs.ts"],"names":[],"mappings":";;AAAA,4EAAoE;AAEpE,+DAAkD;AAClD,MAAqB,IAAK,SAAQ,yBAAc;IAC5C,KAAK,CAAC,OAAO,CAAC,IAAiB;QAC3B,kCAAW,CAAC,OAAO,CAAC,WAAW,EAAE,IAAI,CAAC,CAAA;IAC1C,CAAC;CACJ;AAJD,uBAIC"}
